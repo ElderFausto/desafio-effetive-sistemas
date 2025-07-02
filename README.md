@@ -27,7 +27,7 @@ IDE
 
 Instruções ✍️
 
-Clone o repositório  git clone https://gitlab.com/ElderFausto/desafioeffetivesistemas.
+Clone o repositório  git clone https://gitlab.com/ElderFausto/desafioeffetivesistemas ou https://github.com/ElderFausto/desafio-effetive-sistemas/tree/master.
 Com sua IDE navegue até o diretório do projeto cd desafioeffetivesistemas
 Abra a pasta ChallengerEffetiveSistemas e em src/application
 Execute o arquivo App
