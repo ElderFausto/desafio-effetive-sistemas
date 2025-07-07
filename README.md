@@ -37,10 +37,3 @@ Used Technologies 🛠️
 
 Intellij IDEA
 JAVA
-
-Experiência 🧪
-O projeto foi bastante desafiador, em alguns momentos acabei travando em algumas etapas mas consegui resolvê-las. 
-Eu já havia feito alguns leitores de arquivos csv, que acabaram ajudando a fazer esse desafio. Minha maior dificuldade foi na lógica em mover o arquivo para dentro do diretório no qual ele seria direcionado, 
-tentei de várias maneiras com File/FIles usando renameTo e com Paths, e outros modos diferentes pesquisando pela internet, mas no final consegui depois de muito trabalho unindo o File e o Path. 
-Esse desafio me ajudou a treinar lógica e aprender um pouco mais sobre o jAVA, uma linguagem que estou me dedicando aos estudos atualmente. Esse desafio também ajudou a me desafiar e a superar minhas dificuldades e minha limitações, 
-em alguns momentos pensei que não conseguiria, mas no final deu certo.
